@@ -1,0 +1,21 @@
+body{
+    color: #ff4444 ;;
+}
+
+.hero {
+    color: whitesmoke;
+} 
+
+h2{
+    font-size: 250%;
+    margin-top: 5vw;
+}
+.col-lg-6
+{
+    width: 900px;
+
+}
+.w-lg-50
+{
+    color: black;
+}
